@@ -1,0 +1,73 @@
+
+.hero-img {
+    height: 70vh;
+    background-image: url(https://images.unsplash.com/photo-1608751613440-8880d1a0a1a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80);
+    background-size: cover;
+    background-position: 50%;
+  }
+
+  .hero-img2 {
+    height: 70vh;
+    background-image: url(https://images.unsplash.com/photo-1557682250-33bd709cbe85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1129&q=80);
+    background-size: cover;
+    background-position: 50%;
+  }
+
+  /* body{
+    margin: 0;
+  } */
+
+.logo{
+    width: 25%;
+  height: 25%;
+  
+}
+
+.backdrop{
+background-color: rgba(248, 240, 230, 0.384);
+
+}
+
+.piclink{
+cursor: crosshair;
+cursor: alias;
+rotate: 50%;
+
+
+    
+
+}
+
+
+.backdrop2{
+    background-color: rgba(191, 175, 222, 0.315);
+    
+    }
+
+.glassCard{
+    /* From https://css.glass */
+background: rgba(135, 123, 143, 0.55);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.3px);
+-webkit-backdrop-filter: blur(6.3px);
+border: 1px solid rgba(53, 50, 50, 0.24);
+}
+
+.bowl{
+    font-family: monospace;
+}
+
+.bowl-img {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .footBowling {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
